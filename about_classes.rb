@@ -187,6 +187,5 @@ class AboutClasses < Neo::Koan
     assert_equal "STRING", "STRING".to_s
     assert_equal "\"STRING\"", "STRING".inspect
   end
-  
 
 end
